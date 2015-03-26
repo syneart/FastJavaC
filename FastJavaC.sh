@@ -1,6 +1,6 @@
 #!/bin/bash
 #FastJavaC (20150326) by Syneart
-which javxa && clear || (clear && echo "Error: 請先下載安裝 Java SE Development Kit (JDK)" && exit 0)
+if [ -z `which java` ]; then clear && echo "Error: 請先下載安裝 Java SE Development Kit (JDK)" && exit; fi
 while [ true ]; do  
 case $1 in
 	*.java) break;;
