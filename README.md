@@ -2,11 +2,11 @@
 
 使用方式：
 
-Linux (Ubuntu)
+* Linux (Ubuntu)
 
 在 Terminal 下指令： `bash <檔案位在的目錄>/FastJavaC.sh yourJavafile.java` & enjoy it!
  
-Windows
+* Windows
 
 http://www.syneart.com/2012/05/fastjavac.html
 
