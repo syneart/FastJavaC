@@ -4,7 +4,7 @@
 
 * Linux (Ubuntu)
 
-在 Terminal 下指令： `bash <檔案位在的目錄>/FastJavaC.sh yourJavafile.java` & enjoy it!
+在 Terminal 下指令： `bash <檔案位在的目錄>/FastJavaC.sh yourMainJavafile.java` & enjoy it!
  
 * Windows
 
