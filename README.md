@@ -6,8 +6,9 @@
 
 在 Terminal 下指令： `bash <檔案位在的目錄>/FastJavaC.sh yourMainJavafile.java` & enjoy it!
  
-* Windows
-
+* Windows <br />
+Drag & down your Main Java file to the FastJavaC.bat file.
+![image](https://raw.githubusercontent.com/syneart/FastJavaC/master/FastJava_batch_snapshot.png)
 
 <br />
 #### Version History for Windows version<br />
